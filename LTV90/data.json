@@ -1,0 +1,1202 @@
+[
+  {
+    "install_date": "2022-06-02",
+    "players": "1735",
+    "total_revenue": "170065.42",
+    "ltv": "98.02"
+  },
+  {
+    "install_date": "2022-06-03",
+    "players": "143",
+    "total_revenue": "9946.89",
+    "ltv": "69.56"
+  },
+  {
+    "install_date": "2022-06-04",
+    "players": "76",
+    "total_revenue": "7007.45",
+    "ltv": "92.2"
+  },
+  {
+    "install_date": "2022-06-05",
+    "players": "74",
+    "total_revenue": "5776.42",
+    "ltv": "78.06"
+  },
+  {
+    "install_date": "2022-06-06",
+    "players": "49",
+    "total_revenue": "4737.83",
+    "ltv": "96.69"
+  },
+  {
+    "install_date": "2022-06-07",
+    "players": "29",
+    "total_revenue": "2519.15",
+    "ltv": "86.87"
+  },
+  {
+    "install_date": "2022-06-08",
+    "players": "30",
+    "total_revenue": "3537.76",
+    "ltv": "117.93"
+  },
+  {
+    "install_date": "2022-06-09",
+    "players": "22",
+    "total_revenue": "2375.92",
+    "ltv": "108.0"
+  },
+  {
+    "install_date": "2022-06-10",
+    "players": "20",
+    "total_revenue": "1127.01",
+    "ltv": "56.35"
+  },
+  {
+    "install_date": "2022-06-11",
+    "players": "19",
+    "total_revenue": "4138.03",
+    "ltv": "217.79"
+  },
+  {
+    "install_date": "2022-06-12",
+    "players": "16",
+    "total_revenue": "1107.63",
+    "ltv": "69.23"
+  },
+  {
+    "install_date": "2022-06-13",
+    "players": "13",
+    "total_revenue": "2019.83",
+    "ltv": "155.37"
+  },
+  {
+    "install_date": "2022-06-14",
+    "players": "20",
+    "total_revenue": "2919.5",
+    "ltv": "145.98"
+  },
+  {
+    "install_date": "2022-06-15",
+    "players": "29",
+    "total_revenue": "4044.06",
+    "ltv": "139.45"
+  },
+  {
+    "install_date": "2022-06-16",
+    "players": "28",
+    "total_revenue": "3475.29",
+    "ltv": "124.12"
+  },
+  {
+    "install_date": "2022-06-17",
+    "players": "23",
+    "total_revenue": "2326.12",
+    "ltv": "101.14"
+  },
+  {
+    "install_date": "2022-06-18",
+    "players": "40",
+    "total_revenue": "5075.09",
+    "ltv": "126.88"
+  },
+  {
+    "install_date": "2022-06-19",
+    "players": "39",
+    "total_revenue": "5770.43",
+    "ltv": "147.96"
+  },
+  {
+    "install_date": "2022-06-20",
+    "players": "35",
+    "total_revenue": "5162.09",
+    "ltv": "147.49"
+  },
+  {
+    "install_date": "2022-06-21",
+    "players": "27",
+    "total_revenue": "5212.84",
+    "ltv": "193.07"
+  },
+  {
+    "install_date": "2022-06-22",
+    "players": "36",
+    "total_revenue": "3659.99",
+    "ltv": "101.67"
+  },
+  {
+    "install_date": "2022-06-23",
+    "players": "42",
+    "total_revenue": "6672.29",
+    "ltv": "158.86"
+  },
+  {
+    "install_date": "2022-06-24",
+    "players": "48",
+    "total_revenue": "5011.45",
+    "ltv": "104.41"
+  },
+  {
+    "install_date": "2022-06-25",
+    "players": "46",
+    "total_revenue": "6972.24",
+    "ltv": "151.57"
+  },
+  {
+    "install_date": "2022-06-26",
+    "players": "41",
+    "total_revenue": "4444.35",
+    "ltv": "108.4"
+  },
+  {
+    "install_date": "2022-06-27",
+    "players": "28",
+    "total_revenue": "7605.83",
+    "ltv": "271.64"
+  },
+  {
+    "install_date": "2022-06-28",
+    "players": "42",
+    "total_revenue": "6820.7",
+    "ltv": "162.4"
+  },
+  {
+    "install_date": "2022-06-29",
+    "players": "46",
+    "total_revenue": "5325.38",
+    "ltv": "115.77"
+  },
+  {
+    "install_date": "2022-06-30",
+    "players": "35",
+    "total_revenue": "3971.88",
+    "ltv": "113.48"
+  },
+  {
+    "install_date": "2022-07-01",
+    "players": "28",
+    "total_revenue": "3043.83",
+    "ltv": "108.71"
+  },
+  {
+    "install_date": "2022-07-02",
+    "players": "26",
+    "total_revenue": "5202.74",
+    "ltv": "200.11"
+  },
+  {
+    "install_date": "2022-07-03",
+    "players": "47",
+    "total_revenue": "5573.28",
+    "ltv": "118.58"
+  },
+  {
+    "install_date": "2022-07-04",
+    "players": "49",
+    "total_revenue": "6271.39",
+    "ltv": "127.99"
+  },
+  {
+    "install_date": "2022-07-05",
+    "players": "32",
+    "total_revenue": "3962.78",
+    "ltv": "123.84"
+  },
+  {
+    "install_date": "2022-07-06",
+    "players": "39",
+    "total_revenue": "4704.65",
+    "ltv": "120.63"
+  },
+  {
+    "install_date": "2022-07-07",
+    "players": "36",
+    "total_revenue": "3573.56",
+    "ltv": "99.27"
+  },
+  {
+    "install_date": "2022-07-08",
+    "players": "36",
+    "total_revenue": "5241.77",
+    "ltv": "145.6"
+  },
+  {
+    "install_date": "2022-07-09",
+    "players": "39",
+    "total_revenue": "7114.14",
+    "ltv": "182.41"
+  },
+  {
+    "install_date": "2022-07-10",
+    "players": "47",
+    "total_revenue": "6534.55",
+    "ltv": "139.03"
+  },
+  {
+    "install_date": "2022-07-11",
+    "players": "32",
+    "total_revenue": "4656.1",
+    "ltv": "145.5"
+  },
+  {
+    "install_date": "2022-07-12",
+    "players": "30",
+    "total_revenue": "2711.12",
+    "ltv": "90.37"
+  },
+  {
+    "install_date": "2022-07-13",
+    "players": "31",
+    "total_revenue": "2355.61",
+    "ltv": "75.99"
+  },
+  {
+    "install_date": "2022-07-14",
+    "players": "30",
+    "total_revenue": "3537.99",
+    "ltv": "117.93"
+  },
+  {
+    "install_date": "2022-07-15",
+    "players": "31",
+    "total_revenue": "5264.8",
+    "ltv": "169.83"
+  },
+  {
+    "install_date": "2022-07-16",
+    "players": "33",
+    "total_revenue": "3602.99",
+    "ltv": "109.18"
+  },
+  {
+    "install_date": "2022-07-17",
+    "players": "37",
+    "total_revenue": "5292.46",
+    "ltv": "143.04"
+  },
+  {
+    "install_date": "2022-07-18",
+    "players": "33",
+    "total_revenue": "3157.31",
+    "ltv": "95.68"
+  },
+  {
+    "install_date": "2022-07-19",
+    "players": "45",
+    "total_revenue": "4742.43",
+    "ltv": "105.39"
+  },
+  {
+    "install_date": "2022-07-20",
+    "players": "39",
+    "total_revenue": "7409.08",
+    "ltv": "189.98"
+  },
+  {
+    "install_date": "2022-07-21",
+    "players": "42",
+    "total_revenue": "4607.56",
+    "ltv": "109.7"
+  },
+  {
+    "install_date": "2022-07-22",
+    "players": "32",
+    "total_revenue": "6211.84",
+    "ltv": "194.12"
+  },
+  {
+    "install_date": "2022-07-23",
+    "players": "31",
+    "total_revenue": "3325.22",
+    "ltv": "107.27"
+  },
+  {
+    "install_date": "2022-07-24",
+    "players": "33",
+    "total_revenue": "3472.46",
+    "ltv": "105.23"
+  },
+  {
+    "install_date": "2022-07-25",
+    "players": "47",
+    "total_revenue": "3862.82",
+    "ltv": "82.19"
+  },
+  {
+    "install_date": "2022-07-26",
+    "players": "47",
+    "total_revenue": "6580.24",
+    "ltv": "140.01"
+  },
+  {
+    "install_date": "2022-07-27",
+    "players": "44",
+    "total_revenue": "3972.88",
+    "ltv": "90.29"
+  },
+  {
+    "install_date": "2022-07-28",
+    "players": "43",
+    "total_revenue": "5893.2",
+    "ltv": "137.05"
+  },
+  {
+    "install_date": "2022-07-29",
+    "players": "43",
+    "total_revenue": "3600.35",
+    "ltv": "83.73"
+  },
+  {
+    "install_date": "2022-07-30",
+    "players": "35",
+    "total_revenue": "4664.27",
+    "ltv": "133.26"
+  },
+  {
+    "install_date": "2022-07-31",
+    "players": "58",
+    "total_revenue": "7142.87",
+    "ltv": "123.15"
+  },
+  {
+    "install_date": "2022-08-01",
+    "players": "37",
+    "total_revenue": "4757.93",
+    "ltv": "128.59"
+  },
+  {
+    "install_date": "2022-08-02",
+    "players": "38",
+    "total_revenue": "3069.49",
+    "ltv": "80.78"
+  },
+  {
+    "install_date": "2022-08-03",
+    "players": "39",
+    "total_revenue": "3902.67",
+    "ltv": "100.07"
+  },
+  {
+    "install_date": "2022-08-04",
+    "players": "41",
+    "total_revenue": "5160.36",
+    "ltv": "125.86"
+  },
+  {
+    "install_date": "2022-08-05",
+    "players": "56",
+    "total_revenue": "5496.59",
+    "ltv": "98.15"
+  },
+  {
+    "install_date": "2022-08-06",
+    "players": "58",
+    "total_revenue": "6800.92",
+    "ltv": "117.26"
+  },
+  {
+    "install_date": "2022-08-07",
+    "players": "65",
+    "total_revenue": "6492.09",
+    "ltv": "99.88"
+  },
+  {
+    "install_date": "2022-08-08",
+    "players": "47",
+    "total_revenue": "5748.61",
+    "ltv": "122.31"
+  },
+  {
+    "install_date": "2022-08-09",
+    "players": "41",
+    "total_revenue": "5245.35",
+    "ltv": "127.94"
+  },
+  {
+    "install_date": "2022-08-10",
+    "players": "36",
+    "total_revenue": "3719.27",
+    "ltv": "103.31"
+  },
+  {
+    "install_date": "2022-08-11",
+    "players": "38",
+    "total_revenue": "3558.66",
+    "ltv": "93.65"
+  },
+  {
+    "install_date": "2022-08-12",
+    "players": "35",
+    "total_revenue": "3793.39",
+    "ltv": "108.38"
+  },
+  {
+    "install_date": "2022-08-13",
+    "players": "42",
+    "total_revenue": "3790.17",
+    "ltv": "90.24"
+  },
+  {
+    "install_date": "2022-08-14",
+    "players": "42",
+    "total_revenue": "4854.77",
+    "ltv": "115.59"
+  },
+  {
+    "install_date": "2022-08-15",
+    "players": "43",
+    "total_revenue": "8440.03",
+    "ltv": "196.28"
+  },
+  {
+    "install_date": "2022-08-16",
+    "players": "31",
+    "total_revenue": "3028.17",
+    "ltv": "97.68"
+  },
+  {
+    "install_date": "2022-08-17",
+    "players": "38",
+    "total_revenue": "4281.02",
+    "ltv": "112.66"
+  },
+  {
+    "install_date": "2022-08-18",
+    "players": "32",
+    "total_revenue": "3600.67",
+    "ltv": "112.52"
+  },
+  {
+    "install_date": "2022-08-19",
+    "players": "35",
+    "total_revenue": "2929.82",
+    "ltv": "83.71"
+  },
+  {
+    "install_date": "2022-08-20",
+    "players": "46",
+    "total_revenue": "4007.94",
+    "ltv": "87.13"
+  },
+  {
+    "install_date": "2022-08-21",
+    "players": "40",
+    "total_revenue": "2717.28",
+    "ltv": "67.93"
+  },
+  {
+    "install_date": "2022-08-22",
+    "players": "30",
+    "total_revenue": "3589.87",
+    "ltv": "119.66"
+  },
+  {
+    "install_date": "2022-08-23",
+    "players": "30",
+    "total_revenue": "3381.26",
+    "ltv": "112.71"
+  },
+  {
+    "install_date": "2022-08-24",
+    "players": "16",
+    "total_revenue": "1217.4",
+    "ltv": "76.09"
+  },
+  {
+    "install_date": "2022-08-25",
+    "players": "28",
+    "total_revenue": "2283.64",
+    "ltv": "81.56"
+  },
+  {
+    "install_date": "2022-08-26",
+    "players": "31",
+    "total_revenue": "3752.33",
+    "ltv": "121.04"
+  },
+  {
+    "install_date": "2022-08-27",
+    "players": "17",
+    "total_revenue": "3634.56",
+    "ltv": "213.8"
+  },
+  {
+    "install_date": "2022-08-28",
+    "players": "30",
+    "total_revenue": "3008.82",
+    "ltv": "100.29"
+  },
+  {
+    "install_date": "2022-08-29",
+    "players": "35",
+    "total_revenue": "2673.99",
+    "ltv": "76.4"
+  },
+  {
+    "install_date": "2022-08-30",
+    "players": "16",
+    "total_revenue": "1185.93",
+    "ltv": "74.12"
+  },
+  {
+    "install_date": "2022-08-31",
+    "players": "34",
+    "total_revenue": "2926.58",
+    "ltv": "86.08"
+  },
+  {
+    "install_date": "2022-09-01",
+    "players": "21",
+    "total_revenue": "1780.08",
+    "ltv": "84.77"
+  },
+  {
+    "install_date": "2022-09-02",
+    "players": "24",
+    "total_revenue": "2024.32",
+    "ltv": "84.35"
+  },
+  {
+    "install_date": "2022-09-03",
+    "players": "26",
+    "total_revenue": "2176.52",
+    "ltv": "83.71"
+  },
+  {
+    "install_date": "2022-09-04",
+    "players": "24",
+    "total_revenue": "3221.56",
+    "ltv": "134.23"
+  },
+  {
+    "install_date": "2022-09-05",
+    "players": "31",
+    "total_revenue": "3628.78",
+    "ltv": "117.06"
+  },
+  {
+    "install_date": "2022-09-06",
+    "players": "25",
+    "total_revenue": "5553.3",
+    "ltv": "222.13"
+  },
+  {
+    "install_date": "2022-09-07",
+    "players": "30",
+    "total_revenue": "3462.24",
+    "ltv": "115.41"
+  },
+  {
+    "install_date": "2022-09-08",
+    "players": "26",
+    "total_revenue": "3338.62",
+    "ltv": "128.41"
+  },
+  {
+    "install_date": "2022-09-09",
+    "players": "28",
+    "total_revenue": "3033.46",
+    "ltv": "108.34"
+  },
+  {
+    "install_date": "2022-09-10",
+    "players": "22",
+    "total_revenue": "2131.56",
+    "ltv": "96.89"
+  },
+  {
+    "install_date": "2022-09-11",
+    "players": "26",
+    "total_revenue": "2407.52",
+    "ltv": "92.6"
+  },
+  {
+    "install_date": "2022-09-12",
+    "players": "17",
+    "total_revenue": "3992.48",
+    "ltv": "234.85"
+  },
+  {
+    "install_date": "2022-09-13",
+    "players": "29",
+    "total_revenue": "2918.42",
+    "ltv": "100.64"
+  },
+  {
+    "install_date": "2022-09-14",
+    "players": "21",
+    "total_revenue": "2764.37",
+    "ltv": "131.64"
+  },
+  {
+    "install_date": "2022-09-15",
+    "players": "19",
+    "total_revenue": "1839.43",
+    "ltv": "96.81"
+  },
+  {
+    "install_date": "2022-09-16",
+    "players": "27",
+    "total_revenue": "2561.29",
+    "ltv": "94.86"
+  },
+  {
+    "install_date": "2022-09-17",
+    "players": "32",
+    "total_revenue": "3937.06",
+    "ltv": "123.03"
+  },
+  {
+    "install_date": "2022-09-18",
+    "players": "23",
+    "total_revenue": "1915.33",
+    "ltv": "83.28"
+  },
+  {
+    "install_date": "2022-09-19",
+    "players": "27",
+    "total_revenue": "2354.35",
+    "ltv": "87.2"
+  },
+  {
+    "install_date": "2022-09-20",
+    "players": "30",
+    "total_revenue": "3977.55",
+    "ltv": "132.58"
+  },
+  {
+    "install_date": "2022-09-21",
+    "players": "17",
+    "total_revenue": "1407.07",
+    "ltv": "82.77"
+  },
+  {
+    "install_date": "2022-09-22",
+    "players": "29",
+    "total_revenue": "2741.76",
+    "ltv": "94.54"
+  },
+  {
+    "install_date": "2022-09-23",
+    "players": "21",
+    "total_revenue": "1954.68",
+    "ltv": "93.08"
+  },
+  {
+    "install_date": "2022-09-24",
+    "players": "35",
+    "total_revenue": "2974.81",
+    "ltv": "84.99"
+  },
+  {
+    "install_date": "2022-09-25",
+    "players": "28",
+    "total_revenue": "2619.5",
+    "ltv": "93.55"
+  },
+  {
+    "install_date": "2022-09-26",
+    "players": "35",
+    "total_revenue": "2455.87",
+    "ltv": "70.17"
+  },
+  {
+    "install_date": "2022-09-27",
+    "players": "25",
+    "total_revenue": "2013.84",
+    "ltv": "80.55"
+  },
+  {
+    "install_date": "2022-09-28",
+    "players": "21",
+    "total_revenue": "1085.64",
+    "ltv": "51.7"
+  },
+  {
+    "install_date": "2022-09-29",
+    "players": "19",
+    "total_revenue": "1771.15",
+    "ltv": "93.22"
+  },
+  {
+    "install_date": "2022-09-30",
+    "players": "17",
+    "total_revenue": "1549.57",
+    "ltv": "91.15"
+  },
+  {
+    "install_date": "2022-10-01",
+    "players": "17",
+    "total_revenue": "1553.04",
+    "ltv": "91.36"
+  },
+  {
+    "install_date": "2022-10-02",
+    "players": "36",
+    "total_revenue": "2888.19",
+    "ltv": "80.23"
+  },
+  {
+    "install_date": "2022-10-03",
+    "players": "8",
+    "total_revenue": "677.63",
+    "ltv": "84.7"
+  },
+  {
+    "install_date": "2022-10-04",
+    "players": "9",
+    "total_revenue": "660.74",
+    "ltv": "73.42"
+  },
+  {
+    "install_date": "2022-10-05",
+    "players": "22",
+    "total_revenue": "2086.89",
+    "ltv": "94.86"
+  },
+  {
+    "install_date": "2022-10-06",
+    "players": "15",
+    "total_revenue": "1127.74",
+    "ltv": "75.18"
+  },
+  {
+    "install_date": "2022-10-07",
+    "players": "10",
+    "total_revenue": "532.51",
+    "ltv": "53.25"
+  },
+  {
+    "install_date": "2022-10-08",
+    "players": "9",
+    "total_revenue": "763.11",
+    "ltv": "84.79"
+  },
+  {
+    "install_date": "2022-10-09",
+    "players": "14",
+    "total_revenue": "3130.75",
+    "ltv": "223.63"
+  },
+  {
+    "install_date": "2022-10-10",
+    "players": "15",
+    "total_revenue": "1214.42",
+    "ltv": "80.96"
+  },
+  {
+    "install_date": "2022-10-11",
+    "players": "13",
+    "total_revenue": "1983.89",
+    "ltv": "152.61"
+  },
+  {
+    "install_date": "2022-10-12",
+    "players": "16",
+    "total_revenue": "1874.04",
+    "ltv": "117.13"
+  },
+  {
+    "install_date": "2022-10-13",
+    "players": "7",
+    "total_revenue": "713.15",
+    "ltv": "101.88"
+  },
+  {
+    "install_date": "2022-10-14",
+    "players": "9",
+    "total_revenue": "726.21",
+    "ltv": "80.69"
+  },
+  {
+    "install_date": "2022-10-15",
+    "players": "4",
+    "total_revenue": "126.27",
+    "ltv": "31.57"
+  },
+  {
+    "install_date": "2022-10-16",
+    "players": "11",
+    "total_revenue": "1332.0",
+    "ltv": "121.09"
+  },
+  {
+    "install_date": "2022-10-17",
+    "players": "8",
+    "total_revenue": "568.21",
+    "ltv": "71.03"
+  },
+  {
+    "install_date": "2022-10-18",
+    "players": "6",
+    "total_revenue": "490.68",
+    "ltv": "81.78"
+  },
+  {
+    "install_date": "2022-10-19",
+    "players": "7",
+    "total_revenue": "558.85",
+    "ltv": "79.84"
+  },
+  {
+    "install_date": "2022-10-20",
+    "players": "11",
+    "total_revenue": "538.82",
+    "ltv": "48.98"
+  },
+  {
+    "install_date": "2022-10-21",
+    "players": "8",
+    "total_revenue": "338.34",
+    "ltv": "42.29"
+  },
+  {
+    "install_date": "2022-10-22",
+    "players": "6",
+    "total_revenue": "454.06",
+    "ltv": "75.68"
+  },
+  {
+    "install_date": "2022-10-23",
+    "players": "8",
+    "total_revenue": "1208.15",
+    "ltv": "151.02"
+  },
+  {
+    "install_date": "2022-10-24",
+    "players": "10",
+    "total_revenue": "1466.13",
+    "ltv": "146.61"
+  },
+  {
+    "install_date": "2022-10-25",
+    "players": "6",
+    "total_revenue": "631.03",
+    "ltv": "105.17"
+  },
+  {
+    "install_date": "2022-10-26",
+    "players": "6",
+    "total_revenue": "308.33",
+    "ltv": "51.39"
+  },
+  {
+    "install_date": "2022-10-27",
+    "players": "5",
+    "total_revenue": "531.36",
+    "ltv": "106.27"
+  },
+  {
+    "install_date": "2022-10-28",
+    "players": "5",
+    "total_revenue": "146.1",
+    "ltv": "29.22"
+  },
+  {
+    "install_date": "2022-10-29",
+    "players": "12",
+    "total_revenue": "853.52",
+    "ltv": "71.13"
+  },
+  {
+    "install_date": "2022-10-30",
+    "players": "10",
+    "total_revenue": "855.1",
+    "ltv": "85.51"
+  },
+  {
+    "install_date": "2022-10-31",
+    "players": "4",
+    "total_revenue": "158.47",
+    "ltv": "39.62"
+  },
+  {
+    "install_date": "2022-11-01",
+    "players": "4",
+    "total_revenue": "184.02",
+    "ltv": "46.01"
+  },
+  {
+    "install_date": "2022-11-02",
+    "players": "9",
+    "total_revenue": "484.01",
+    "ltv": "53.78"
+  },
+  {
+    "install_date": "2022-11-03",
+    "players": "8",
+    "total_revenue": "714.25",
+    "ltv": "89.28"
+  },
+  {
+    "install_date": "2022-11-04",
+    "players": "7",
+    "total_revenue": "738.35",
+    "ltv": "105.48"
+  },
+  {
+    "install_date": "2022-11-05",
+    "players": "10",
+    "total_revenue": "558.04",
+    "ltv": "55.8"
+  },
+  {
+    "install_date": "2022-11-06",
+    "players": "10",
+    "total_revenue": "421.93",
+    "ltv": "42.19"
+  },
+  {
+    "install_date": "2022-11-07",
+    "players": "7",
+    "total_revenue": "453.27",
+    "ltv": "64.75"
+  },
+  {
+    "install_date": "2022-11-08",
+    "players": "5",
+    "total_revenue": "170.67",
+    "ltv": "34.13"
+  },
+  {
+    "install_date": "2022-11-09",
+    "players": "3",
+    "total_revenue": "95.7",
+    "ltv": "31.9"
+  },
+  {
+    "install_date": "2022-11-10",
+    "players": "7",
+    "total_revenue": "513.84",
+    "ltv": "73.41"
+  },
+  {
+    "install_date": "2022-11-11",
+    "players": "2",
+    "total_revenue": "77.4",
+    "ltv": "38.7"
+  },
+  {
+    "install_date": "2022-11-12",
+    "players": "5",
+    "total_revenue": "306.01",
+    "ltv": "61.2"
+  },
+  {
+    "install_date": "2022-11-13",
+    "players": "6",
+    "total_revenue": "293.61",
+    "ltv": "48.93"
+  },
+  {
+    "install_date": "2022-11-14",
+    "players": "3",
+    "total_revenue": "164.82",
+    "ltv": "54.94"
+  },
+  {
+    "install_date": "2022-11-15",
+    "players": "3",
+    "total_revenue": "281.2",
+    "ltv": "93.73"
+  },
+  {
+    "install_date": "2022-11-16",
+    "players": "4",
+    "total_revenue": "219.93",
+    "ltv": "54.98"
+  },
+  {
+    "install_date": "2022-11-17",
+    "players": "7",
+    "total_revenue": "415.41",
+    "ltv": "59.34"
+  },
+  {
+    "install_date": "2022-11-18",
+    "players": "7",
+    "total_revenue": "1215.38",
+    "ltv": "173.63"
+  },
+  {
+    "install_date": "2022-11-19",
+    "players": "3",
+    "total_revenue": "418.28",
+    "ltv": "139.43"
+  },
+  {
+    "install_date": "2022-11-20",
+    "players": "5",
+    "total_revenue": "295.53",
+    "ltv": "59.11"
+  },
+  {
+    "install_date": "2022-11-21",
+    "players": "3",
+    "total_revenue": "110.59",
+    "ltv": "36.86"
+  },
+  {
+    "install_date": "2022-11-22",
+    "players": "6",
+    "total_revenue": "402.75",
+    "ltv": "67.13"
+  },
+  {
+    "install_date": "2022-11-23",
+    "players": "2",
+    "total_revenue": "123.9",
+    "ltv": "61.95"
+  },
+  {
+    "install_date": "2022-11-24",
+    "players": "6",
+    "total_revenue": "552.94",
+    "ltv": "92.16"
+  },
+  {
+    "install_date": "2022-11-25",
+    "players": "4",
+    "total_revenue": "366.15",
+    "ltv": "91.54"
+  },
+  {
+    "install_date": "2022-11-26",
+    "players": "3",
+    "total_revenue": "195.8",
+    "ltv": "65.27"
+  },
+  {
+    "install_date": "2022-11-27",
+    "players": "3",
+    "total_revenue": "117.76",
+    "ltv": "39.25"
+  },
+  {
+    "install_date": "2022-11-28",
+    "players": "1",
+    "total_revenue": "61.57",
+    "ltv": "61.57"
+  },
+  {
+    "install_date": "2022-11-29",
+    "players": "3",
+    "total_revenue": "132.47",
+    "ltv": "44.16"
+  },
+  {
+    "install_date": "2022-11-30",
+    "players": "6",
+    "total_revenue": "789.44",
+    "ltv": "131.57"
+  },
+  {
+    "install_date": "2022-12-01",
+    "players": "1",
+    "total_revenue": "75.53",
+    "ltv": "75.53"
+  },
+  {
+    "install_date": "2022-12-02",
+    "players": "2",
+    "total_revenue": "134.68",
+    "ltv": "67.34"
+  },
+  {
+    "install_date": "2022-12-03",
+    "players": "2",
+    "total_revenue": "110.09",
+    "ltv": "55.05"
+  },
+  {
+    "install_date": "2022-12-04",
+    "players": "1",
+    "total_revenue": "0.0",
+    "ltv": "0.0"
+  },
+  {
+    "install_date": "2022-12-05",
+    "players": "5",
+    "total_revenue": "725.06",
+    "ltv": "145.01"
+  },
+  {
+    "install_date": "2022-12-06",
+    "players": "3",
+    "total_revenue": "341.41",
+    "ltv": "113.8"
+  },
+  {
+    "install_date": "2022-12-08",
+    "players": "2",
+    "total_revenue": "202.25",
+    "ltv": "101.13"
+  },
+  {
+    "install_date": "2022-12-09",
+    "players": "2",
+    "total_revenue": "158.02",
+    "ltv": "79.01"
+  },
+  {
+    "install_date": "2022-12-10",
+    "players": "1",
+    "total_revenue": "41.43",
+    "ltv": "41.43"
+  },
+  {
+    "install_date": "2022-12-12",
+    "players": "1",
+    "total_revenue": "0.0",
+    "ltv": "0.0"
+  },
+  {
+    "install_date": "2022-12-13",
+    "players": "4",
+    "total_revenue": "279.0",
+    "ltv": "69.75"
+  },
+  {
+    "install_date": "2022-12-14",
+    "players": "3",
+    "total_revenue": "367.88",
+    "ltv": "122.63"
+  },
+  {
+    "install_date": "2022-12-15",
+    "players": "2",
+    "total_revenue": "157.76",
+    "ltv": "78.88"
+  },
+  {
+    "install_date": "2022-12-16",
+    "players": "1",
+    "total_revenue": "36.12",
+    "ltv": "36.12"
+  },
+  {
+    "install_date": "2022-12-20",
+    "players": "2",
+    "total_revenue": "78.99",
+    "ltv": "39.49"
+  },
+  {
+    "install_date": "2022-12-22",
+    "players": "1",
+    "total_revenue": "51.1",
+    "ltv": "51.1"
+  },
+  {
+    "install_date": "2022-12-23",
+    "players": "1",
+    "total_revenue": "73.86",
+    "ltv": "73.86"
+  },
+  {
+    "install_date": "2022-12-25",
+    "players": "1",
+    "total_revenue": "101.82",
+    "ltv": "101.82"
+  }
+]

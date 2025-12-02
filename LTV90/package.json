@@ -1,0 +1,6 @@
+{
+  "description": "Apache ECharts Demo",
+  "keywords": ["echarts", "apache"],
+  "main": "index.html",
+  "name": "Axis Align with Tick"
+}
